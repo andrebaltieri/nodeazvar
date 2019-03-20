@@ -1,0 +1,6 @@
+{
+    "exec": "node src/server.js",
+    "env": {
+        "ENVIRONMENT": "development"
+    }
+}
